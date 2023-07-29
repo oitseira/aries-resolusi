@@ -1,4 +1,8 @@
 Aries Bahasa Ngoding
 - HTML, CSS (opsional bahasa, padahal bukan)
 - JavaScript
+* java is key
+* the key to victory is Java
+* who can control Java will win 
+* so Java is the key
 - PHP 
