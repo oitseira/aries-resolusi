@@ -6,3 +6,4 @@ Aries Bahasa Ngoding
 * who can control Java will win 
 * so Java is the key
 - PHP 
+* $$$$$$$$$$$$$$$$$$$$$$$$$$
