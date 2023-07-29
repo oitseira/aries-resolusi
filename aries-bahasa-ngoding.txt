@@ -4,6 +4,7 @@ Aries Bahasa Ngoding
  * java is key
   ^ JavaScript is often used in mobile app development because it can create interactive and user-friendly applications. Some real-world examples of mobile apps that use JavaScript include Facebook, Twitter, and Uber.
  * the key to victory is Java
+  ^ Java-Script
  * who can control Java will win 
  * so Java is the key
 - PHP 
