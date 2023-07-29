@@ -1,9 +1,9 @@
 Aries Bahasa Ngoding
 - HTML, CSS (opsional bahasa, padahal bukan)
 - JavaScript
-* java is key
-* the key to victory is Java
-* who can control Java will win 
-* so Java is the key
+ * java is key 
+  ^ Java (/ˈdʒɑːvə, ˈdʒævə/;[2] Indonesian: Jawa, pronounced [ˈdʒawa]; Javanese: ꦗꦮ; Sundanese: ᮏᮝ) is one of the Greater Sunda Islands in Indonesia. It is bordered by the Indian Ocean to the south and the Java Sea to the north. With a population of 151.6 million people, Java is the world's most populous island, home to approximately 56% of the Indonesian population.[3]
+ * the key to victory is Java
+ * who can control Java will win 
 - PHP 
-* $$$$$$$$$$$$$$$$$$$$$$$$$$
+ * $$$$$$$$$$$$$$$$$$$$$$$$$$
