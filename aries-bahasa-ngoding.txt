@@ -1,0 +1,4 @@
+Aries Bahasa Ngoding
+- HTML, CSS (opsional bahasa, padahal bukan)
+- JavaScript
+- PHP 
